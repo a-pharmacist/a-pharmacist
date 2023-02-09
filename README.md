@@ -26,5 +26,3 @@ Aliás, esse projeto foi um dos maiores responsáveis pelo início do meu intere
 <a href = "mailto:gabriellacampera@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriella-campera/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-![Snake animation](https://github.com/a-pharmacist/a-pharmacist/blob/output/github-contribution-grid-snake.svg)
