@@ -17,6 +17,8 @@ Aliás, esse projeto foi um dos maiores responsáveis pelo início do meu intere
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="30" align="center" alt="CSS-icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="30" align="center" alt="JS-icon"/>
 </div>
+  
+<img src="https://www.imagemhost.com.br/images/2023/02/09/gabi.gif" width="160" align="right" alt="Gabi-giphy">
 
 ##
 
