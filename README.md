@@ -12,7 +12,7 @@
 
 Aliás, esse projeto foi um dos maiores responsáveis pelo início do meu interesse no universo da tecnologia e programação. <em><b>A partir dele, comecei a estudar:</em></b>
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="30" align="center" alt="HTML-icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="30" align="center" alt="CSS-icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="30" align="center" alt="JS-icon"/>
