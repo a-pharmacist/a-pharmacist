@@ -10,7 +10,7 @@ Microsoft Power BI, Microsoft Power Query.
 
 &#129504; Sou uma profissional curiosa, comunicativa e apaixonada por tecnologia. Minha experiência em pesquisa fortaleceu minhas competências em pensamento crítico, análise e aplicação do método científico. Minha motivação está no compromisso com o cuidado das pessoas, utilizando dados para criar impacto positivo.
 
-### Onde me encontrar
+### Onde me encontrar &#128236;
 [![Gmail Badge](https://img.shields.io/badge/-gabriellacampera@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriellacampera@gmail.com)](mailto:gabriellacampera@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriella_Campera-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriella-campera/)](https://www.linkedin.com/in/gabriella-campera/)
 
